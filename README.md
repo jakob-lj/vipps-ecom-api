@@ -19,4 +19,4 @@ contact information,
 contribution guidelines,
 etc.
 
-You can peruse the API reference documentation as [Swagger](https://vippsas.github.io/vipps-ecom-api/), [ReDoc](https://vippsas.github.io/vipps-ecom-api/redoc.html) or [Slate](https://vippsas.github.io/vipps-ecom-api/slate/).
+You can peruse the API reference documentation as [Swagger](https://vippsas.github.io/vipps-ecom-api/) or [ReDoc](https://vippsas.github.io/vipps-ecom-api/redoc.html).
