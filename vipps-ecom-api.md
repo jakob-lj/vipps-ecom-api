@@ -21,7 +21,7 @@ See also: [How it works](vipps-ecom-api-howitworks.md).
 - [Initiate](#initiate)
   - [Regular eCommerce payments](#regular-ecommerce-payments)
   - [Express checkout payments](#express-checkout-payments)
-    - [Shipping and static shipping details](#shipping-details-and-static-shipping-details)
+    - [Shipping and static shipping details](#shipping-and-static-shipping-details)
     - [Consent and GDPR](#consent-and-gdpr)
   - [Initiate payment flow: Phone and browser](#initiate-payment-flow-phone-and-browser)
     - [Phone flow](#phone-flow)
